@@ -9,10 +9,13 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="docs/images/home.png" width="300" alt="<img width="644" height="1117" alt="4349be84d9ecf66648144e1843cc8f10" src="https://github.com/user-attachments/assets/7b9e598a-ecd2-4109-98fe-751097882599" />" />
+      <img width="644" height="1117" alt="4349be84d9ecf66648144e1843cc8f10" src="https://github.com/user-attachments/assets/e458f78b-b1a4-424e-a914-229f95138698" />
     </td>
     <td align="center" valign="top">
-      <img src="docs/images/stats.png" width="300" alt="<img width="644" height="1113" alt="5cb6f4984b9ae5f70c7a45765d665a40" src="https://github.com/user-attachments/assets/0ce49ce7-022c-4bd0-871f-23412373535e" />" />
+      <img width="644" height="1115" alt="0220403b4d636b8cb8dece7a5ba71015" src="https://github.com/user-attachments/assets/d1e0333b-5bf5-41d4-8edc-4ef13ec52e11" />
+    </td>
+    <td align="center" valign="top">
+      <img width="644" height="1113" alt="5cb6f4984b9ae5f70c7a45765d665a40" src="https://github.com/user-attachments/assets/08150395-69be-4f5b-8309-6c886fe7fd0f" />
     </td>
   </tr>
 </table>
